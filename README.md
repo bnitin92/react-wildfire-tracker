@@ -4,8 +4,7 @@ Created a react app for tracking wildfires across the globe using google maps an
 Technologies used were react for the frontend display, react hooks for state management, google maps api.
 
 ## Website sample
-![Wildfire Tracker](/images/logo.png)
+![Wildfire Tracker](/Screen Shot 2020-11-23 at 9.34.10 PM.png)
 
 ## References
-https://www.youtube.com/watch?v=ontX4zfVqK8&ab_channel=TraversyMedia
 [TraversyMedia](https://www.youtube.com/watch?v=ontX4zfVqK8&ab_channel=TraversyMedia)
